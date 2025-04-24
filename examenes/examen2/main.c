@@ -40,10 +40,6 @@ int main (void){
                 printf(MSJ1);
                 scanf("%d", &a);
                 contarPar(a);
-                int par = contarPar(a);
-                int impar = contarPar(a);
-                printf("Números pares: %d\n", par);
-                printf("Números impares: %d\n", impar);
                 break;
             case 4:
                 printf(MSJ1);
