@@ -42,8 +42,8 @@ int contarPar(int n){
         }
     }
     //se puede imprimr desde aqui o en el main
-    // printf("Números pares: %d\n", par);
-    // printf("Números impares: %d\n", impar);
+    printf("Números pares: %d\n", par);
+    printf("Números impares: %d\n", impar);
     return 0;
 }
 //Mostrar múltiplos de 3 entre 1 y N
